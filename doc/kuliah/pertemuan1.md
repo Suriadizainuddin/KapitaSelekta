@@ -3,7 +3,8 @@
 **Kapita Selekta**
 
 <p align="center">
-  <img src="../../img/kapita selekta.PNG" width="400px">
+  
+<img src="../../img/kapita selekta.png" width="400px">
 </p>
 1. Pengertian Github
 2. Fungsi Github
